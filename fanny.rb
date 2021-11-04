@@ -8,4 +8,11 @@
 
 # fannny commit 2
 # matt commit 3
+<<<<<<< HEAD
 "salut paul"
+=======
+
+
+Riri
+loulou
+>>>>>>> f9c74bb754667e953b1bdb306774d3fb5e991b70
